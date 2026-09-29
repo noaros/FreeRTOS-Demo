@@ -8,4 +8,6 @@ Ok I was totally blown away by Claude Code. It did so many things. What amazed m
 
 Ok this project is now a dead end. It represented the approach of starting a new project with just the demo part of FreeRTOS that was closest to my board. Issues were that the demo project needs the rest of FreeRTOS, and that it was in IAR Workbench format, and didn't exactly match my hardware. Not sure how significant the latter would be. But I had so much success just having Claude do exactly what I need, this path no longer has any utility.
 
+[FreeRTOS-429](https://github.com/noaros/FreeRTOS-429)
+
 
